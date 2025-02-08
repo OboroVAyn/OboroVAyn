@@ -10,7 +10,8 @@
 ## 📌 My Projects
 🔹 [📊 E-commerce Sales Analysis](https://github.com/OboroVAyn/E-commerce_Sales_Analysis)  
 🔹 [💰 Fake Banknotes Detection (Machine Learning)](https://github.com/OboroVAyn/Fake-Banknotes-Detection)  
-🔹 [📉 Power BI Dashboard on Drinking Water](https://github.com/OboroVAyn/Water_Quality_Analysis)  
+🔹 [📉 Power BI Dashboard on Drinking Water](https://github.com/OboroVAyn/Water_Quality_Analysis)
+🔹 [🏡 Real Estate Database & SQL Queries](https://github.com/OboroVAyn/Real_Estate_Database)
 
 ➡ **See my full portfolio here**: [Notion Link]  
 
@@ -23,13 +24,14 @@
 ## 🇫🇷 Salut, moi c’est Frank Moukalla Mboka  
 
 🎯 **Data Analyst spécialisé en statistiques et machine learning**  
-📊 Compétences : Python, SQL, Power BI, R, Statistiques avancées  
+📊 Compétences : Python, SQL, Power BI, Statistiques avancées  
 🚀 J’aide les entreprises à exploiter leurs données pour en tirer des insights actionnables  
 
 ## 📌 Mes projets
 🔹 [📊 Analyse des ventes e-commerce](https://github.com/OboroVAyn/E-commerce_Sales_Analysis)  
 🔹 [💰 Détection de faux billets avec Machine Learning](https://github.com/OboroVAyn/Fake-Banknotes-Detection)  
 🔹 [📉 Dashboard Power BI sur l’eau potable](https://github.com/OboroVAyn/Water_Quality_Analysis)  
+🔹 [🏡 Base de données immobilière & Requêtes SQL](https://github.com/OboroVAyn/Real_Estate_Database)
 
 ➡ **Voir mon portfolio complet ici** : [Lien Notion]  
 
