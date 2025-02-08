@@ -10,7 +10,7 @@
 ## 📌 My Projects
 🔹 [📊 E-commerce Sales Analysis](https://github.com/FrankMoukalla/Projet-Ecommerce)  
 🔹 [💰 Fake Banknotes Detection (Machine Learning)](https://github.com/OboroVAyn/Fake-Banknotes-Detection)  
-🔹 [📉 Power BI Dashboard on Drinking Water](https://github.com/FrankMoukalla/Eau-Potable-PowerBI)  
+🔹 [📉 Power BI Dashboard on Drinking Water](https://github.com/OboroVAyn/Water_Quality_Analysis)  
 
 ➡ **See my full portfolio here**: [Notion Link]  
 
@@ -29,7 +29,7 @@
 ## 📌 Mes projets
 🔹 [📊 Analyse des ventes e-commerce](https://github.com/FrankMoukalla/Projet-Ecommerce)  
 🔹 [💰 Détection de faux billets avec Machine Learning](https://github.com/OboroVAyn/Fake-Banknotes-Detection)  
-🔹 [📉 Dashboard Power BI sur l’eau potable](https://github.com/FrankMoukalla/Eau-Potable-PowerBI)  
+🔹 [📉 Dashboard Power BI sur l’eau potable](https://github.com/OboroVAyn/Water_Quality_Analysis)  
 
 ➡ **Voir mon portfolio complet ici** : [Lien Notion]  
 
