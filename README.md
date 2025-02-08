@@ -10,7 +10,7 @@
 ## 📌 My Projects
 🔹 [📊 E-commerce Sales Analysis](https://github.com/OboroVAyn/E-commerce_Sales_Analysis)  
 🔹 [💰 Fake Banknotes Detection (Machine Learning)](https://github.com/OboroVAyn/Fake-Banknotes-Detection)  
-🔹 [📉 Power BI Dashboard on Drinking Water](https://github.com/OboroVAyn/Water_Quality_Analysis)
+🔹 [📉 Power BI Dashboard on Drinking Water](https://github.com/OboroVAyn/Water_Quality_Analysis)  
 🔹 [🏡 Real Estate Database & SQL Queries](https://github.com/OboroVAyn/Real_Estate_Database)
 
 ➡ **See my full portfolio here**: [Notion Link]  
