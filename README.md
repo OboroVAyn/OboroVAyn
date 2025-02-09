@@ -13,7 +13,7 @@
 🔹 [📉 Power BI Dashboard on Drinking Water](https://github.com/OboroVAyn/Water_Quality_Analysis)  
 🔹 [🏡 Real Estate Database & SQL Queries](https://github.com/OboroVAyn/Real_Estate_Database)
 
-➡ **See my full portfolio here**: [Notion Link]  
+➡ **See my full portfolio here**: [Website] (In progress) 
 
 ## 📫 Contact Me  
 🔗 [LinkedIn](https://linkedin.com/in/FrankMoukalla)  
@@ -33,7 +33,7 @@
 🔹 [📉 Dashboard Power BI sur l’eau potable](https://github.com/OboroVAyn/Water_Quality_Analysis)  
 🔹 [🏡 Base de données immobilière & Requêtes SQL](https://github.com/OboroVAyn/Real_Estate_Database)
 
-➡ **Voir mon portfolio complet ici** : [Lien Notion]  
+➡ **Voir mon portfolio complet ici** : [Lien Site]  (En travaux)
 
 ## 📫 Me contacter  
 🔗 [LinkedIn](https://www.linkedin.com/in/frank-moukalla-mboka-132aab26b)  
