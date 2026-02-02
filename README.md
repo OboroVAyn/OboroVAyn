@@ -17,7 +17,7 @@
 
 ## 📫 Contact Me  
 🔗 [LinkedIn](https://linkedin.com/in/FrankMoukalla)  
-📧 frank.moukalla@gmail.com  
+📧 frank.moukallamboka@gmail.com  
 
 ---
 
