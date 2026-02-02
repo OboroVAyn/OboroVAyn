@@ -6,15 +6,15 @@ I'm Frank Moukalla Mboka
 🚀 Turning data into actionable insights for businesses  
 
 📌 Selected projects  
-🔹 [📊 E-commerce Sales Analysis](https://github.com/OboroVAyn/E-commerce_Sales_Analysis)  
-🔹 [💰 Fake Banknotes Detection (Machine Learning)](https://github.com/OboroVAyn/Fake-Banknotes-Detection)  
-🔹 [📉 Power BI Dashboard on Drinking Water](https://github.com/OboroVAyn/Water_Quality_Analysis)  
-🔹 [🏡 Real Estate Database & SQL Queries](https://github.com/OboroVAyn/Real_Estate_Database)  
+🔹 [ E-commerce Sales Analysis](https://github.com/OboroVAyn/E-commerce_Sales_Analysis)  
+🔹 [ Fake Banknotes Detection (Machine Learning)](https://github.com/OboroVAyn/Fake-Banknotes-Detection)  
+🔹 [ Power BI Dashboard on Drinking Water](https://github.com/OboroVAyn/Water_Quality_Analysis)  
+🔹 [ Real Estate Database & SQL Queries](https://github.com/OboroVAyn/Real_Estate_Database)  
 
 ➡ Portfolio: Website (in progress — feel free to explore my repos)
 
 📫 Contact  
-🔗 LinkedIn  
+🔗 [LinkedIn](https://linkedin.com/in/FrankMoukalla)  
 📧 frank.moukallamboka@gmail.com  
 
 ---
@@ -27,59 +27,19 @@ I'm Frank Moukalla Mboka
 🚀 J’aide les entreprises à exploiter leurs données pour en tirer des insights actionnables  
 
 📌 Projets sélectionnés  
-🔹 [📊 Analyse des ventes e-commerce](https://github.com/OboroVAyn/E-commerce_Sales_Analysis)  
-🔹 [💰 Détection de faux billets avec Machine Learning](https://github.com/OboroVAyn/Fake-Banknotes-Detection)  
-🔹 [📉 Dashboard Power BI sur l’eau potable](https://github.com/OboroVAyn/Water_Quality_Analysis)  
-🔹 [🏡 Base de données immobilière & Requêtes SQL](https://github.com/OboroVAyn/Real_Estate_Database)  
+🔹 [ Analyse des ventes e-commerce](https://github.com/OboroVAyn/E-commerce_Sales_Analysis)  
+🔹 [ Détection de faux billets avec Machine Learning](https://github.com/OboroVAyn/Fake-Banknotes-Detection)  
+🔹 [ Dashboard Power BI sur l’eau potable](https://github.com/OboroVAyn/Water_Quality_Analysis)  
+🔹 [ Base de données immobilière & Requêtes SQL](https://github.com/OboroVAyn/Real_Estate_Database)  
 
 ➡ Portfolio : site en cours (voir les repos ci-dessus)
 
 📫 Contact  
-🔗 LinkedIn  
+🔗 [LinkedIn](https://linkedin.com/in/FrankMoukalla)  
 📧 frank.moukallamboka@gmail.com  
 
 </details>
 
-## Hi there 👋
-# 👋 Hello, I'm Frank Moukalla Mboka  
-
-🎯 **Data Analyst specialized in Statistics & Machine Learning**  
-📊 Skills: Python, SQL, Power BI, Advanced Statistics  
-🚀 Helping businesses turn data into actionable insights  
-
-(🇫🇷 Version française plus bas ⬇️)  
-
-## 📌 My Projects
-🔹 [📊 E-commerce Sales Analysis](https://github.com/OboroVAyn/E-commerce_Sales_Analysis)  
-🔹 [💰 Fake Banknotes Detection (Machine Learning)](https://github.com/OboroVAyn/Fake-Banknotes-Detection)  
-🔹 [📉 Power BI Dashboard on Drinking Water](https://github.com/OboroVAyn/Water_Quality_Analysis)  
-🔹 [🏡 Real Estate Database & SQL Queries](https://github.com/OboroVAyn/Real_Estate_Database)
-
-➡ **See my full portfolio here**: [Website] (In progress, feel free to roam here instead) 
-
-## 📫 Contact Me  
-🔗 [LinkedIn](https://linkedin.com/in/FrankMoukalla)  
-📧 frank.moukallamboka@gmail.com  
-
----
-
-## 🇫🇷 Salut, moi c’est Frank Moukalla Mboka  
-
-🎯 **Data Analyst spécialisé en statistiques et machine learning**  
-📊 Compétences : Python, SQL, Power BI, Statistiques avancées  
-🚀 J’aide les entreprises à exploiter leurs données pour en tirer des insights actionnables  
-
-## 📌 Mes projets
-🔹 [📊 Analyse des ventes e-commerce](https://github.com/OboroVAyn/E-commerce_Sales_Analysis)  
-🔹 [💰 Détection de faux billets avec Machine Learning](https://github.com/OboroVAyn/Fake-Banknotes-Detection)  
-🔹 [📉 Dashboard Power BI sur l’eau potable](https://github.com/OboroVAyn/Water_Quality_Analysis)  
-🔹 [🏡 Base de données immobilière & Requêtes SQL](https://github.com/OboroVAyn/Real_Estate_Database)
-
-➡ **Voir mon portfolio complet ici** : [Lien Site]  (En travaux, n'hésitez pas à visiter ici à la place)
-
-## 📫 Me contacter  
-🔗 [LinkedIn](https://www.linkedin.com/in/frank-moukalla-mboka-132aab26b)  
-📧 frank.moukallamboka@gmail.com  
 <!--
 **OboroVAyn/OboroVAyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
