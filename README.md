@@ -1,3 +1,45 @@
+Hi there 👋  
+I'm Frank Moukalla Mboka  
+
+🎯 Data Analyst — Statistics & Machine Learning(https://github.com/OboroVAyn/E-commerce_Sales_Analysis)  
+📊 Python · SQL · Power BI · Advanced Statistics  
+🚀 Turning data into actionable insights for businesses  
+
+📌 Selected projects  
+🔹 E-commerce Sales Analysis  
+🔹 Fake Banknotes Detection (Machine Learning)  
+🔹 Power BI Dashboard on Drinking Water  
+🔹 Real Estate Database & SQL Queries  
+
+➡ Portfolio: Website (in progress — feel free to explore my repos)
+
+📫 Contact  
+🔗 LinkedIn  
+📧 frank.moukallamboka@gmail.com  
+
+---
+
+<details>
+<summary>🇫🇷 Version française</summary>
+
+🎯 Data Analyst spécialisé en statistiques et machine learning  
+📊 Python · SQL · Power BI · Statistiques avancées  
+🚀 J’aide les entreprises à exploiter leurs données pour en tirer des insights actionnables  
+
+📌 Projets sélectionnés  
+🔹 Analyse des ventes e-commerce  
+🔹 Détection de faux billets (Machine Learning)  
+🔹 Dashboard Power BI sur l’eau potable  
+🔹 Base de données immobilière & requêtes SQL  
+
+➡ Portfolio : site en cours (voir les repos ci-dessus)
+
+📫 Contact  
+🔗 LinkedIn  
+📧 frank.moukallamboka@gmail.com  
+
+</details>
+
 ## Hi there 👋
 # 👋 Hello, I'm Frank Moukalla Mboka  
 
